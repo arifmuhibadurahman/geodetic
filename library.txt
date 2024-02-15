@@ -1,0 +1,34 @@
+Library Text Processing
+String
+Regex
+
+Library Matematika
+math
+
+Library Parser
+argparse
+
+Library Pengolahan Data
+Pandas
+Numpy
+Matplotlib
+Seaborn
+
+Library File Management
+OS
+JSON
+Pickle
+
+Library Web Scraping
+Bequtifulsoup
+Urlib
+
+Library Machine Learning
+Skicit-learn
+Tensorflow
+PyTorch
+
+Library Web Development
+Django
+Flask
+Fast API
