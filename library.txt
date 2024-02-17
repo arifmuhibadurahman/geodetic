@@ -32,3 +32,6 @@ Library Web Development
 Django
 Flask
 Fast API
+
+Spatial Analysist
+geopy
